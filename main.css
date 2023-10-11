@@ -21,7 +21,7 @@ li {
     font-family: monospace;
 }
 .light-theme {
-    background:#b0ff7b;
+    background:#ffffff;
     Color:#000000;
     --mado:var(--black);
 
@@ -29,7 +29,7 @@ li {
 }
 .dark-theme {
     background: black;
-    color: #b0ff7b;
+    color: #ffffff;
     --mado:var(--white);
 
 
