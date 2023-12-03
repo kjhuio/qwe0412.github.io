@@ -8,28 +8,39 @@
 }
 body {
     font-family: 'Noto Sans', 'Noto Sans JP', sans-serif;
+    margin-left: 2em;
+    margin-right: 2em;
     
 }
 
+h1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    background: aqua;
+    color: #ffffff;
+    font-size: 3em;
+}
 ui {
-    font-family: 'Noto Sans', 'Noto Sans JP', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 li {
     list-style: square;
 }
 #msg {
-    font-family: 'Noto Sans', 'Noto Sans JP', sans-serif;
+    font-family: Noto Sans JP;
 }
 .light-theme {
     background:#ffe692;
     Color:#000000;
     --mado:var(--black);
 
-
 }
 .dark-theme {
     background: black;
-    color: #ffffff;
+    color:#ffffff;
     --mado:var(--white);
 
 
