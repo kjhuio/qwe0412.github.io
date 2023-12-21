@@ -14,14 +14,14 @@ body {
 }
 
 h1{
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     border-radius: 10px;
-    background: aqua;
+    background: rgb(0, 229, 255);
     color: #ffffff;
-    font-size: 3em;
+    font-size: 1.5em;
 }
 ui {
     font-family: Arial, Helvetica, sans-serif;
